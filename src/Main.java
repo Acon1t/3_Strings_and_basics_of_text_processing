@@ -16,6 +16,8 @@ public class Main {
         //StringAsObject.task7();
         //StringAsObject.task8();
         //StringAsObject.task9();
-        StringAsObject.task10();
+        //StringAsObject.task10();
+        //WorkingWithRegularExpressions.task1();
+        WorkingWithRegularExpressions.task2();
     }
 }
